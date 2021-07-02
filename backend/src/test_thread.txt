@@ -1,0 +1,10 @@
+time_recorded_thread_1: 2021-06-15 17:49:21.969114
+True
+time_recorded_thread_2: 2021-06-15 17:49:24.974520
+False
+time_recorded_thread_3: 2021-06-15 17:49:27.980036
+False
+time_recorded_thread_4: 2021-06-15 17:49:30.985595
+False
+time_recorded_thread_5: 2021-06-15 17:49:33.991257
+False
